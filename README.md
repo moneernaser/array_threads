@@ -1,5 +1,6 @@
-# array_threads
+# threads party
 
+* how to run:
 java Main <num_of_threads> <num_of_iterations>
 
 - if no parameters are specified, num_of_threads=num_of_iterations=20
